@@ -1,2 +1,4 @@
-# ssd1306_i2c
-Platform-independent I2C driver for the SSD1306 display
+# SSD1306 I2C Library
+
+Platform-independent I2C library for the SSD1306 display.
+
